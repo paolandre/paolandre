@@ -8,7 +8,7 @@
     <h4>- 📧 Email: paolandre38@gmail.com</h4>
   </div>
 
-  <h2 align="center">Skills</h2>
+  <h2 align="center">Languages and tools</h2>
   <div align="center">
     <a align="center" href="https://skillicons.dev/icons?i=javascript,html,css,discord,figma,firebase,git,github,nodejs,photoshop,replit,vercel,vscode,wordpress&theme=light" target="_blank">
       <img align="center" src="https://skillicons.dev/icons?i=javascript,html,css,discord,figma,firebase,git,github,nodejs,photoshop,replit,vercel,vscode,wordpress&theme=light" alt="My Skills">
