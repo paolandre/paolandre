@@ -1,5 +1,5 @@
   <div align="center">
-    <img width="600px" height="300px" src="https://github.com/paolandre/paolandre/assets/129551206/1817f08a-e73a-47eb-989c-3b7727d4600d" alt="Blue Black Futuristic Technology Facebook Cover">
+    <img width="600px" height="300px" src="https://github.com/paolandre/paolandre/assets/129551206/1817f08a-e73a-47eb-989c-3b7727d4600d" alt="Paola Ramirez">
   </div> 
   <div>
     <h4>Hola! 👋 My name is Andrea, and I'm a Front-End Developer searching for exciting opportunities in the technology field.</h4>
