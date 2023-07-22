@@ -3,7 +3,6 @@
 </div>
 
 <div>
-
     <h4>Hola! 👋 My name is Andrea, and I'm a Front-End Developer searching for exciting opportunities in the technology field.</h4>
     <h4>Feel free to contact me for job opportunities, collaborations, or simply to chat about technology!</h4>
     <h4>- 📍 Location: Bogota</h4>
