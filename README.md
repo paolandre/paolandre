@@ -1,6 +1,7 @@
  <div align="center">
-  <img src="https://github.com/paolandre/paolandre/assets/129551206/72cadb11-6be8-4dff-ad2a-94087f6ec710" alt="Paola Ramirez" style="max-width: 100%;">
+  <img src="https://github.com/paolandre/paolandre/assets/129551206/e18347ed-6553-42be-9f43-31529726d11e" alt="Paola Ramirez" style="max-width: 100%;">
 </div>
+
 <div>
     <h4>Hola! 👋 My name is Andrea, and I'm a Front-End Developer searching for exciting opportunities in the technology field.</h4>
     <h4>Feel free to contact me for job opportunities, collaborations, or simply to chat about technology!</h4>
