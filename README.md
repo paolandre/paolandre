@@ -1,5 +1,5 @@
  <div align="center">
-  <img src="https://github.com/paolandre/paolandre/assets/129551206/8a5a1f8c-babe-4468-b148-5bea4ef87568" alt="Paola Ramirez" style="max-width: 100%;">
+  <img src="https://github.com/paolandre/paolandre/assets/129551206/1a108dd4-e17b-4930-b143-2a7df4f0a5e9" alt="Paola Ramirez" style="max-width: 100%;">
 </div>
 
 <div>
