@@ -3,7 +3,7 @@
 </div>
 
 <div>
-    <h4>Greetings!👋 <br>
+    <h4>Greetings!👋 <br> <br>
      I'm Andrea, an experienced tech enthusiast with a strong background in front-end development and a passion for exploring new technologies. I'm eager to contribute to open-source projects or join ventures that involve multidisciplinary teamwork. What truly drives me is the opportunity to collaborate with diverse individuals and share knowledge to create remarkable solutions. If you're interested in partnering up or have an exciting project in mind, don't hesitate to reach out using any of my contact details! Looking forward to connecting with you soon and embarking on an amazing journey together!</h4>
     <h4> - 📍 Location: Bogota <br>
          - 📧 Email: paolandre38@gmail.com
