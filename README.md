@@ -14,7 +14,7 @@
 <h3>Languages and Tools</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,html,css,angular,react,discord,figma,firebase,git,github,nodejs,photoshop,tailwindcss,replit,vercel,vscode,wordpress&theme=light" alt="My Skills">
+  <img src="https://skillicons.dev/icons?i=javascript,html,css,angular,react,discord,figma,firebase,git,github,nodejs,photoshop,tailwind,replit,vercel,vscode,wordpress&theme=light" alt="My Skills">
 </div>
 
 ---
