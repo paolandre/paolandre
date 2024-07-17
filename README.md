@@ -18,9 +18,6 @@
 </div>
 
 ---
-<div align="center">
- <h3>Thank you for visiting my profile!😊</h3> 
-</div>
 
 
 
